@@ -1,0 +1,18 @@
+How to do the testing of dynamically-linked library.
+
+1. Test calculusOfVariations code. 
+
+
+Information how to do the unit testing is provided below:
+
+
+
+Additionl Modelling:
+https://corporatefinanceinstitute.com/resources/knowledge/economics/j-curve/#:~:text=In%20private%20equity%2C%20the%20J,years%20when%20the%20investments%20mature.&text=that%20requires%20the%20fund%20to,of%20the%20excess%20cash%20flow
+
+Modelling J-Curve. 
+
+
+
+Current Status
+-----

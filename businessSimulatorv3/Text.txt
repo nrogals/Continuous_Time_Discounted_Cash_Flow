@@ -1,0 +1,329 @@
+
+ Runing testBusinessSimulator
+
+
+ Calculate Parameterizied Time Functoin
+
+Parameterizied Value at time t:
+
+11.5
+Caclulate Discounted Cash Flow with Calculus of Variations
+
+Discounted CashFlow with Calculus Of Variations is 40.38664999574826 and Discounted CashFlow with Traditional 39.373782804729174 with Relative Error 0.02572440641637887
+
+Discounted CashFlow with Calculus Of Variations is 7.919753450701239 and Discounted CashFlow with Traditional 7.721734929184812 with Relative Error 0.025644304464272988
+
+Discounted CashFlow with Calculus Of Variations is -213.86814860869762 and Discounted CashFlow with Traditional -205.7859579100778 with Relative Error 0.03927474343099492
+
+Simulate Accuracy of Models
+
+Creating Simulator
+Entering Simulator
+************************* Simulation 0 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.002317, Binomial Error is -0.009128
+For Traditional Valuation Method, Uniform Error is -0.020663, Binomial Error is -0.033221
+************************* Simulation 1 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.009143, Binomial Error is 0.001776
+For Traditional Valuation Method, Uniform Error is -0.033908, Binomial Error is -0.021198
+************************* Simulation 2 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.008837, Binomial Error is -0.007883
+For Traditional Valuation Method, Uniform Error is -0.014658, Binomial Error is -0.032056
+************************* Simulation 3 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.035374, Binomial Error is -0.005684
+For Traditional Valuation Method, Uniform Error is 0.006311, Binomial Error is -0.029906
+************************* Simulation 4 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.018485, Binomial Error is -0.005855
+For Traditional Valuation Method, Uniform Error is -0.041281, Binomial Error is -0.030078
+************************* Simulation 5 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.020842, Binomial Error is -0.006083
+For Traditional Valuation Method, Uniform Error is -0.041126, Binomial Error is -0.030767
+************************* Simulation 6 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.019312, Binomial Error is -0.006705
+For Traditional Valuation Method, Uniform Error is -0.000176, Binomial Error is -0.030995
+************************* Simulation 7 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.036153, Binomial Error is -0.008602
+For Traditional Valuation Method, Uniform Error is -0.058407, Binomial Error is -0.032905
+************************* Simulation 8 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.012640, Binomial Error is -0.007846
+For Traditional Valuation Method, Uniform Error is -0.002978, Binomial Error is -0.032120
+************************* Simulation 9 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.007456, Binomial Error is -0.006861
+For Traditional Valuation Method, Uniform Error is -0.032837, Binomial Error is -0.031154
+************************* Simulation 10 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002215, Binomial Error is -0.006838
+For Traditional Valuation Method, Uniform Error is -0.025626, Binomial Error is -0.031097
+************************* Simulation 11 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002172, Binomial Error is -0.006363
+For Traditional Valuation Method, Uniform Error is -0.027730, Binomial Error is -0.030585
+************************* Simulation 12 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.026909, Binomial Error is -0.007243
+For Traditional Valuation Method, Uniform Error is -0.048146, Binomial Error is -0.031443
+************************* Simulation 13 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.164677, Binomial Error is -0.006946
+For Traditional Valuation Method, Uniform Error is 0.102788, Binomial Error is -0.031211
+************************* Simulation 14 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.029575, Binomial Error is -0.008187
+For Traditional Valuation Method, Uniform Error is -0.051967, Binomial Error is -0.032342
+************************* Simulation 15 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.018343, Binomial Error is -0.007754
+For Traditional Valuation Method, Uniform Error is -0.035890, Binomial Error is -0.031958
+************************* Simulation 16 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.008968, Binomial Error is -0.007238
+For Traditional Valuation Method, Uniform Error is -0.037093, Binomial Error is -0.031477
+************************* Simulation 17 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.005491, Binomial Error is -0.007359
+For Traditional Valuation Method, Uniform Error is -0.029596, Binomial Error is -0.031669
+************************* Simulation 18 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.000041, Binomial Error is -0.006707
+For Traditional Valuation Method, Uniform Error is -0.024992, Binomial Error is -0.030993
+************************* Simulation 19 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.162719, Binomial Error is -0.006863
+For Traditional Valuation Method, Uniform Error is 0.143150, Binomial Error is -0.031124
+************************* Simulation 20 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002173, Binomial Error is -0.007089
+For Traditional Valuation Method, Uniform Error is -0.023256, Binomial Error is -0.031383
+************************* Simulation 21 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.049930, Binomial Error is -0.007181
+For Traditional Valuation Method, Uniform Error is -0.082756, Binomial Error is -0.031493
+************************* Simulation 22 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.003094, Binomial Error is -0.006563
+For Traditional Valuation Method, Uniform Error is -0.020641, Binomial Error is -0.030903
+************************* Simulation 23 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.026897, Binomial Error is -0.007015
+For Traditional Valuation Method, Uniform Error is -0.045881, Binomial Error is -0.031258
+************************* Simulation 24 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.001134, Binomial Error is -0.006749
+For Traditional Valuation Method, Uniform Error is -0.023004, Binomial Error is -0.031051
+************************* Simulation 25 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.004897, Binomial Error is -0.007001
+For Traditional Valuation Method, Uniform Error is -0.029527, Binomial Error is -0.031276
+************************* Simulation 26 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.002044, Binomial Error is -0.007031
+For Traditional Valuation Method, Uniform Error is -0.022100, Binomial Error is -0.031340
+************************* Simulation 27 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.003811, Binomial Error is -0.006169
+For Traditional Valuation Method, Uniform Error is -0.017702, Binomial Error is -0.030437
+************************* Simulation 28 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.131689, Binomial Error is -0.005790
+For Traditional Valuation Method, Uniform Error is 0.132740, Binomial Error is -0.030085
+************************* Simulation 29 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.015462, Binomial Error is -0.007235
+For Traditional Valuation Method, Uniform Error is -0.036211, Binomial Error is -0.031563
+************************* Simulation 30 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.015407, Binomial Error is -0.007066
+For Traditional Valuation Method, Uniform Error is -0.046343, Binomial Error is -0.031379
+************************* Simulation 31 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.224795, Binomial Error is -0.006641
+For Traditional Valuation Method, Uniform Error is -0.226318, Binomial Error is -0.030939
+************************* Simulation 32 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.024185, Binomial Error is -0.006556
+For Traditional Valuation Method, Uniform Error is -0.046933, Binomial Error is -0.030841
+************************* Simulation 33 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.003602, Binomial Error is -0.007555
+For Traditional Valuation Method, Uniform Error is -0.027342, Binomial Error is -0.031759
+************************* Simulation 34 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002149, Binomial Error is -0.006654
+For Traditional Valuation Method, Uniform Error is -0.026167, Binomial Error is -0.030935
+************************* Simulation 35 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.002684, Binomial Error is -0.005903
+For Traditional Valuation Method, Uniform Error is -0.021625, Binomial Error is -0.030198
+************************* Simulation 36 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.008690, Binomial Error is -0.007718
+For Traditional Valuation Method, Uniform Error is -0.034562, Binomial Error is -0.032103
+************************* Simulation 37 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.013639, Binomial Error is -0.007245
+For Traditional Valuation Method, Uniform Error is -0.006346, Binomial Error is -0.031495
+************************* Simulation 38 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.021204, Binomial Error is -0.006033
+For Traditional Valuation Method, Uniform Error is -0.045119, Binomial Error is -0.030319
+************************* Simulation 39 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.081030, Binomial Error is -0.007413
+For Traditional Valuation Method, Uniform Error is -0.100223, Binomial Error is -0.031829
+************************* Simulation 40 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.009765, Binomial Error is -0.006935
+For Traditional Valuation Method, Uniform Error is -0.015905, Binomial Error is -0.031164
+************************* Simulation 41 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.027161, Binomial Error is -0.006497
+For Traditional Valuation Method, Uniform Error is -0.053875, Binomial Error is -0.030829
+************************* Simulation 42 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.137589, Binomial Error is -0.006125
+For Traditional Valuation Method, Uniform Error is 0.106528, Binomial Error is -0.030401
+************************* Simulation 43 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.001118, Binomial Error is -0.006608
+For Traditional Valuation Method, Uniform Error is -0.029216, Binomial Error is -0.030917
+************************* Simulation 44 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.173992, Binomial Error is -0.005109
+For Traditional Valuation Method, Uniform Error is 0.567528, Binomial Error is -0.029443
+************************* Simulation 45 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002104, Binomial Error is -0.006522
+For Traditional Valuation Method, Uniform Error is -0.026054, Binomial Error is -0.030763
+************************* Simulation 46 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.034527, Binomial Error is -0.005747
+For Traditional Valuation Method, Uniform Error is -0.055683, Binomial Error is -0.031138
+************************* Simulation 47 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.020491, Binomial Error is -0.011236
+For Traditional Valuation Method, Uniform Error is -0.043150, Binomial Error is -0.035655
+************************* Simulation 48 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.033838, Binomial Error is -0.007447
+For Traditional Valuation Method, Uniform Error is -0.061885, Binomial Error is -0.031712
+************************* Simulation 49 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.001029, Binomial Error is -0.005688
+For Traditional Valuation Method, Uniform Error is -0.022336, Binomial Error is -0.029945
+************************* Simulation 50 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.007107, Binomial Error is -0.007511
+For Traditional Valuation Method, Uniform Error is -0.019545, Binomial Error is -0.031828
+************************* Simulation 51 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.008238, Binomial Error is -0.004323
+For Traditional Valuation Method, Uniform Error is -0.011628, Binomial Error is -0.028515
+************************* Simulation 52 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.001961, Binomial Error is -0.006961
+For Traditional Valuation Method, Uniform Error is -0.025617, Binomial Error is -0.030965
+************************* Simulation 53 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.007619, Binomial Error is -0.164492
+For Traditional Valuation Method, Uniform Error is -0.031281, Binomial Error is -0.195879
+************************* Simulation 54 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.013908, Binomial Error is -0.006805
+For Traditional Valuation Method, Uniform Error is -0.038080, Binomial Error is -0.031024
+************************* Simulation 55 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.024337, Binomial Error is -0.006037
+For Traditional Valuation Method, Uniform Error is -0.043787, Binomial Error is -0.030175
+************************* Simulation 56 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.013530, Binomial Error is -0.009077
+For Traditional Valuation Method, Uniform Error is -0.023935, Binomial Error is -0.033125
+************************* Simulation 57 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.012898, Binomial Error is -0.008561
+For Traditional Valuation Method, Uniform Error is -0.010532, Binomial Error is -0.032942
+************************* Simulation 58 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.013359, Binomial Error is -0.007299
+For Traditional Valuation Method, Uniform Error is -0.013039, Binomial Error is -0.031749
+************************* Simulation 59 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.007835, Binomial Error is -0.005306
+For Traditional Valuation Method, Uniform Error is -0.030220, Binomial Error is -0.029474
+************************* Simulation 60 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.035001, Binomial Error is 0.012900
+For Traditional Valuation Method, Uniform Error is 0.010366, Binomial Error is -0.009493
+************************* Simulation 61 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.045205, Binomial Error is -0.005111
+For Traditional Valuation Method, Uniform Error is -0.067640, Binomial Error is -0.029087
+************************* Simulation 62 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.020666, Binomial Error is -0.001262
+For Traditional Valuation Method, Uniform Error is -0.044506, Binomial Error is -0.024873
+************************* Simulation 63 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.067475, Binomial Error is -0.007756
+For Traditional Valuation Method, Uniform Error is -0.104535, Binomial Error is -0.031999
+************************* Simulation 64 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002287, Binomial Error is -0.005938
+For Traditional Valuation Method, Uniform Error is -0.027149, Binomial Error is -0.030070
+************************* Simulation 65 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.001561, Binomial Error is -0.005974
+For Traditional Valuation Method, Uniform Error is -0.026994, Binomial Error is -0.029729
+************************* Simulation 66 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.058262, Binomial Error is -0.009419
+For Traditional Valuation Method, Uniform Error is 0.017522, Binomial Error is -0.033851
+************************* Simulation 67 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.027980, Binomial Error is -0.007055
+For Traditional Valuation Method, Uniform Error is 0.000750, Binomial Error is -0.031403
+************************* Simulation 68 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.004049, Binomial Error is -0.006988
+For Traditional Valuation Method, Uniform Error is -0.021017, Binomial Error is -0.031284
+************************* Simulation 69 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.009659, Binomial Error is -0.005922
+For Traditional Valuation Method, Uniform Error is -0.031521, Binomial Error is -0.030318
+************************* Simulation 70 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.049741, Binomial Error is -0.005831
+For Traditional Valuation Method, Uniform Error is -0.080856, Binomial Error is -0.030315
+************************* Simulation 71 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.026262, Binomial Error is -0.003904
+For Traditional Valuation Method, Uniform Error is -0.009990, Binomial Error is -0.028126
+************************* Simulation 72 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.103357, Binomial Error is -0.010244
+For Traditional Valuation Method, Uniform Error is 0.074989, Binomial Error is -0.035043
+************************* Simulation 73 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.001561, Binomial Error is -0.005855
+For Traditional Valuation Method, Uniform Error is -0.021594, Binomial Error is -0.030109
+************************* Simulation 74 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.011835, Binomial Error is -0.007048
+For Traditional Valuation Method, Uniform Error is -0.038853, Binomial Error is -0.031208
+************************* Simulation 75 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.007696, Binomial Error is -0.002791
+For Traditional Valuation Method, Uniform Error is -0.013642, Binomial Error is -0.026800
+************************* Simulation 76 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.213191, Binomial Error is -0.008393
+For Traditional Valuation Method, Uniform Error is -0.225136, Binomial Error is -0.032518
+************************* Simulation 77 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.007964, Binomial Error is -0.006735
+For Traditional Valuation Method, Uniform Error is -0.034291, Binomial Error is -0.030942
+************************* Simulation 78 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.019933, Binomial Error is -0.006143
+For Traditional Valuation Method, Uniform Error is -0.041423, Binomial Error is -0.030282
+************************* Simulation 79 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.001900, Binomial Error is -0.003495
+For Traditional Valuation Method, Uniform Error is -0.024626, Binomial Error is -0.028685
+************************* Simulation 80 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.009463, Binomial Error is 0.018009
+For Traditional Valuation Method, Uniform Error is -0.018902, Binomial Error is -0.005060
+************************* Simulation 81 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.001293, Binomial Error is -0.005173
+For Traditional Valuation Method, Uniform Error is -0.025342, Binomial Error is -0.029239
+************************* Simulation 82 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.005549, Binomial Error is -0.013225
+For Traditional Valuation Method, Uniform Error is -0.023547, Binomial Error is -0.037606
+************************* Simulation 83 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.018390, Binomial Error is -0.006438
+For Traditional Valuation Method, Uniform Error is -0.010086, Binomial Error is -0.030736
+************************* Simulation 84 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.139928, Binomial Error is -0.002742
+For Traditional Valuation Method, Uniform Error is -0.151305, Binomial Error is -0.027107
+************************* Simulation 85 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.011128, Binomial Error is -0.005147
+For Traditional Valuation Method, Uniform Error is -0.034676, Binomial Error is -0.029018
+************************* Simulation 86 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.362298, Binomial Error is 0.019677
+For Traditional Valuation Method, Uniform Error is 0.275502, Binomial Error is -0.003039
+************************* Simulation 87 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.093441, Binomial Error is -0.007615
+For Traditional Valuation Method, Uniform Error is -0.115516, Binomial Error is -0.031675
+************************* Simulation 88 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.007272, Binomial Error is -0.004566
+For Traditional Valuation Method, Uniform Error is -0.032001, Binomial Error is -0.028773
+************************* Simulation 89 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.002851, Binomial Error is -0.008664
+For Traditional Valuation Method, Uniform Error is -0.028856, Binomial Error is -0.032931
+************************* Simulation 90 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.061520, Binomial Error is -0.007140
+For Traditional Valuation Method, Uniform Error is -0.078460, Binomial Error is -0.031440
+************************* Simulation 91 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.003818, Binomial Error is -0.005062
+For Traditional Valuation Method, Uniform Error is -0.019866, Binomial Error is -0.029448
+************************* Simulation 92 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.056808, Binomial Error is -0.007671
+For Traditional Valuation Method, Uniform Error is -0.085114, Binomial Error is -0.031796
+************************* Simulation 93 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.003322, Binomial Error is -0.003056
+For Traditional Valuation Method, Uniform Error is -0.018613, Binomial Error is -0.027136
+************************* Simulation 94 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.000820, Binomial Error is -0.010879
+For Traditional Valuation Method, Uniform Error is -0.025563, Binomial Error is -0.035048
+************************* Simulation 95 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.006190, Binomial Error is -0.003681
+For Traditional Valuation Method, Uniform Error is -0.028988, Binomial Error is -0.029447
+************************* Simulation 96 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.017464, Binomial Error is -0.011426
+For Traditional Valuation Method, Uniform Error is -0.010287, Binomial Error is -0.035618
+************************* Simulation 97 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.006002, Binomial Error is -0.009168
+For Traditional Valuation Method, Uniform Error is -0.035184, Binomial Error is -0.033531
+************************* Simulation 98 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.006577, Binomial Error is -0.007127
+For Traditional Valuation Method, Uniform Error is -0.022331, Binomial Error is -0.031476
+************************* Simulation 99 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.028536, Binomial Error is -0.006690
+For Traditional Valuation Method, Uniform Error is 0.002307, Binomial Error is -0.030969
+************************* Simulation 100 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is 0.029367, Binomial Error is -0.006444
+For Traditional Valuation Method, Uniform Error is 0.004308, Binomial Error is -0.030706
+************************* Simulation 101 *************************
+For Calculus Of Variations Valuation Method, Uniform Error is -0.008627, Binomial Error is -0.006298
+For Traditional Valuation Method, Uniform Error is -0.033125, Binomial Error is -0.030572
+************************* Simulation 102 *************************
+F
