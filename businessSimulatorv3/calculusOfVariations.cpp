@@ -1,3 +1,13 @@
+/*
+File handles the calculation of coefficients and parameters that 
+parameterize the solution to the continuous-time discounted cash-flow problem.
+
+TODO: 
+1. Refactor some aspects of businessSimluatorv3.cpp into calculusOfVariations.cpp.
+
+*/
+
+
 #include "calculusOfVariations.h"
 #include "businessSimulatorv3.h"
 #include <math.h>   

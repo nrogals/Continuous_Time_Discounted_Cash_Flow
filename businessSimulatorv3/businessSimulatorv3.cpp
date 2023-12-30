@@ -17,12 +17,6 @@
 #include <math.h>       /* pow */
 #include <utility>      // std::pair
 
-//Need to add boost. 
-//Some example headers are: 
-//Header <boost/numeric/odeint/integrate/integrate.hpp>
-
-//TODO: Check why the warnings are on? 
-
 
 using namespace std;
 using namespace System; 
@@ -113,10 +107,6 @@ float calculateDailyDCF(vector<float> dailyCashFlows, float dailyDiscountRate) {
 
 double calculatedParameteriziedTimeFunction(const double* lambdas, int lambdasLen, double A, double B, double t) {
 
-	//TODO: Check edge case appropiately for t. 
-	//TODO: Complete error handling for appropiate t. 
-
-
 	double retVal = 0.0;
 	try {
 		vector<double> lambdasVec(lambdasLen, 0.0);
@@ -198,9 +188,6 @@ std::tuple<vector<float>, vector<float>> Simulator::simulationBussinessCashFlows
 	float uniformRet = calculateDailyDCF(vUniformGen, dailyDiscountRate);
 	float binomialRet = calculateDailyDCF(vBinomialTreeGen, dailyDiscountRate);
 
-	//printf("True Daily Uniform Discounted Cash Flow Value %f and True Daily Binary Discounted Cash Flow %f \n", uniformRet, binomialRet);
-
-	//printf("Unifrom and Binomial Generators \n");
 	vector<std::pair<std::string, float>> ret; 
 	ret.emplace_back(std::make_pair("Uniform", uniformRet));
 	ret.emplace_back("Binomial", binomialRet);
@@ -365,16 +352,6 @@ public:
 	}
 
 };
-
-
-/*
-Need to implement the below functions.								Completion Status
-1. calculateDiscountedCashFlowWithTraditional						COMPLETED, NEEDS TESTING
-2. calculateDiscountedCashFlowWithCalculusOfVariations				COMPLETED, NEEDS TESTING
-3. calculateAccuracyTraditionalDcfMethod							COMPLTED,  NEEDS TESTING 
-4. calculateAccuracyCaculusOfVariationsDcfMethod					COMPLETED, NEEDS TESTING
-
-*/
 
 vector<double> formVectorFromPointer(const double* ptr, int l) {
 
