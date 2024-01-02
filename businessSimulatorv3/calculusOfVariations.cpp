@@ -4,7 +4,6 @@ parameterize the solution to the continuous-time discounted cash-flow problem.
 
 TODO: 
 1. Refactor some aspects of businessSimluatorv3.cpp into calculusOfVariations.cpp.
-
 */
 
 
@@ -175,7 +174,8 @@ double functionTerm3(double t, vector<double> lambdas) {
 std::tuple<vector<double>, float, float> calculateParametersRepresentingF(int x0, int xT, vector<float> cashFlows) {
 
     //printf("Started Calculation of Parameters Representing F \n");
-
+    //TODO: Need to update so that ending points of c(t) are not zero, but 
+    //something more resasonable such as cashFlows[0] and cashFlows[-1].
     float c0 = 0.0;
     float cN = 0.0;
     auto r = interpolateWithIntegralConstraints(cashFlows, c0, cN);
